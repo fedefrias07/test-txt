@@ -1,0 +1,3 @@
+nombre = "Fede"
+
+print(nombre)
